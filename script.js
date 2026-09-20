@@ -1,6 +1,6 @@
 let Name = prompt("Please Enter Your Name");
 
-let Age = Number(prompt("Please Enter Your Age"));
+let Age =prompt("Please Enter Your Age");
 
 let Gender = prompt("Please Enter Your Gender (Female/Male)");
 
