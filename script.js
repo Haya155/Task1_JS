@@ -76,3 +76,5 @@ if(Age < 16){
     document.write("Your order: " + order + "<br>");
     document.write("Your order status: " + orderStatus);
 }
+
+
