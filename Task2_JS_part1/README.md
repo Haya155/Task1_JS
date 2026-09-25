@@ -1,1 +1,1 @@
-# Task1_JS
+# Task2_JS_part1
